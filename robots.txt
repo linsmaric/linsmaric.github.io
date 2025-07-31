@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://linsmaric.github.io//al-folio/sitemap.xml
+Sitemap: https://linsmaric.github.io//blank/sitemap.xml
